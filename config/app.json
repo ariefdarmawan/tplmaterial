@@ -1,0 +1,7 @@
+{
+	"Name": "EACIIT Material Template",
+	"Version": "0.1",
+	"WebRoot": "/Users/ariefdarmawan/Go/src/eaciit/tplmaterial/webapp",
+	"WebHost": "localhost:9990",
+	"DbConnection": "localhost:27123/dbtest"
+}
